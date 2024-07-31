@@ -1,0 +1,6 @@
+Core Python Programming.
+Advanced Python Programming.
+Automation using Python.
+Data science.
+Machine Learning.
+Python Programming is easy.
